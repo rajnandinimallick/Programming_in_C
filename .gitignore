@@ -1,9 +1,7 @@
-# Ignore the default gcc output
-a.out
-
 # Ignore all files with NO extension (compiled binaries)
 *
 !*/
 !*.c
 !*.h
+!*.md
 !.gitignore
