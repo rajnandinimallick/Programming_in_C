@@ -4,5 +4,6 @@
 !*.c
 !*.h
 !*.md
+!*.txt
 !.gitignore
 general_testing.c
